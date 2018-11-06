@@ -28,4 +28,4 @@ The application includes a simple but functional web frontend using React and Bo
 **Others**
 * Thymeleaf - Templating language used to render the final web page.
 
-###This project is still work in progress.
+### This project is still work in progress.
